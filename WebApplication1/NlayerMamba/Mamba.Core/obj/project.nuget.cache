@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqsg/g2V74icBMkDyEx/Y8R6gGlUNK92gJ/rdTvFW4jhYpr2HGY/yuc/T5Dz1mHGye0nsXd9+kj11eVccAF6FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\II novbe\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\II novbe\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

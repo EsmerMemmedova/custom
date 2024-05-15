@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPustok", "WebPustok\WebPustok.csproj", "{CAB2131E-C0AA-497E-8D73-AE112871E566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB2131E-C0AA-497E-8D73-AE112871E566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB2131E-C0AA-497E-8D73-AE112871E566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB2131E-C0AA-497E-8D73-AE112871E566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB2131E-C0AA-497E-8D73-AE112871E566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE34B54-8882-49FE-B31C-64B9030A1ED8}
+	EndGlobalSection
+EndGlobal

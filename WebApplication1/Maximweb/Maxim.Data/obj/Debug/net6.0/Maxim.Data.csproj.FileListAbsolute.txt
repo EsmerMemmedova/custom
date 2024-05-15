@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Data.deps.json
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Data.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Core.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Core.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\refint\Maxim.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\ref\Maxim.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\bin\Debug\net6.0\Maxim.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\custom\WebApplication1\Maximweb\Maxim.Data\obj\Debug\net6.0\Maxim.Data.genruntimeconfig.cache
