@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Business.deps.json
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Business.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Business.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Core.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Data.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\bin\Debug\net6.0\doorang.Core.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\refint\doorang.Business.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\doorang.Business.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Business\obj\Debug\net6.0\ref\doorang.Business.dll

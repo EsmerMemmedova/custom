@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HY+ax3spdDVh3ijAeg3zACXkl/bUOLFl4v7pqDvpJZybSfmqXe/vSx9Wc/12XLd7Mx3bjQuN5qvBUp2KwMSzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\II novbe\\Desktop\\custom\\WebApplication1\\doorangweb\\doorang.Core\\doorang.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\II novbe\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

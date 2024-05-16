@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Data.deps.json
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Data.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Core.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Core.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\refint\doorang.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.pdb
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\ref\doorang.Data.dll
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\bin\Debug\net6.0\doorang.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\custom\WebApplication1\doorangweb\doorang.Data\obj\Debug\net6.0\doorang.Data.genruntimeconfig.cache
